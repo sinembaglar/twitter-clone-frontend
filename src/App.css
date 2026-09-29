@@ -1,0 +1,22 @@
+.tweet-list {
+  max-width: 600px;
+  margin: 40px auto;
+  font-family: sans-serif;
+}
+
+.tweet-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.tweet-list li {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 12px;
+  margin-bottom: 8px;
+}
+
+.error {
+  color: #c0392b;
+  font-weight: bold;
+}
